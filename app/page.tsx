@@ -46,7 +46,8 @@ const mockPromises: Promise[] = [
     promise_text: 'Complete the Pune Metro Phase 2 expansion connecting Hinjewadi to Shivajinagar by 2027',
     theme: 'Transport',
     specificity: 'High',
-    party_id: 'pmc-bjp',
+    party: 'BJP',
+    party_id: 'BJP',
     governing_body: 'PMC',
   },
   {
@@ -54,7 +55,8 @@ const mockPromises: Promise[] = [
     promise_text: 'Ensure 24x7 water supply to all PMC areas within 3 years',
     theme: 'Water',
     specificity: 'High',
-    party_id: 'pmc-bjp',
+    party: 'BJP',
+    party_id: 'BJP',
     governing_body: 'PMC',
   },
   {
@@ -62,7 +64,8 @@ const mockPromises: Promise[] = [
     promise_text: 'Build 50 new public gardens and parks across the city',
     theme: 'Environment',
     specificity: 'Medium',
-    party_id: 'pmc-bjp',
+    party: 'BJP',
+    party_id: 'BJP',
     governing_body: 'PMC',
   },
   {
@@ -70,7 +73,8 @@ const mockPromises: Promise[] = [
     promise_text: 'Improve road infrastructure and reduce traffic congestion',
     theme: 'Infrastructure',
     specificity: 'Medium',
-    party_id: 'pmc-inc',
+    party: 'Indian National Congress',
+    party_id: 'Indian National Congress',
     governing_body: 'PMC',
   },
   {
@@ -78,7 +82,8 @@ const mockPromises: Promise[] = [
     promise_text: 'Establish 10 new primary health centers in underserved areas',
     theme: 'Health',
     specificity: 'High',
-    party_id: 'pmc-inc',
+    party: 'Indian National Congress',
+    party_id: 'Indian National Congress',
     governing_body: 'PMC',
   },
   {
@@ -86,7 +91,8 @@ const mockPromises: Promise[] = [
     promise_text: 'Implement comprehensive waste segregation and recycling program',
     theme: 'Waste Management',
     specificity: 'Low',
-    party_id: 'pmc-ncp-sharad',
+    party: 'Nationalist Congress Party',
+    party_id: 'Nationalist Congress Party',
     governing_body: 'PMC',
   },
   {
@@ -94,7 +100,8 @@ const mockPromises: Promise[] = [
     promise_text: 'Expand public bus network with 100 new routes',
     theme: 'Transport',
     specificity: 'Medium',
-    party_id: 'pmc-shiv-ubt',
+    party: 'Shiv Sena(UBT)',
+    party_id: 'Shiv Sena(UBT)',
     governing_body: 'PMC',
   },
   {
@@ -102,7 +109,8 @@ const mockPromises: Promise[] = [
     promise_text: 'Upgrade key arterial roads and junctions in PCMC to reduce bottlenecks',
     theme: 'Infrastructure',
     specificity: 'Medium',
-    party_id: 'pcmc-bjp',
+    party: 'BJP',
+    party_id: 'BJP',
     governing_body: 'PCMC',
   },
   {
@@ -110,7 +118,8 @@ const mockPromises: Promise[] = [
     promise_text: 'Set up additional primary health clinics in rapidly growing PCMC wards',
     theme: 'Health',
     specificity: 'High',
-    party_id: 'pcmc-ncp-ajit',
+    party: 'Nationalist Congress Party',
+    party_id: 'Nationalist Congress Party',
     governing_body: 'PCMC',
   },
 ]
