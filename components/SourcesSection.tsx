@@ -10,7 +10,7 @@ export default function SourcesSection({ sources }: SourcesSectionProps) {
   }
 
   return (
-    <div className="mb-12 sm:mb-14 md:mb-16 border-t border-gray-200/60 pt-8 sm:pt-10 md:pt-12">
+    <div id="sources" className="mb-12 sm:mb-14 md:mb-16 border-t border-gray-200/60 pt-8 sm:pt-10 md:pt-12">
       <h2 className="text-lg sm:text-xl font-semibold text-gray-950 mb-2">Sources</h2>
       <p className="text-sm text-gray-600 mb-5 sm:mb-6 md:mb-7">
         All promises are sourced from official manifestos and credible news reports.

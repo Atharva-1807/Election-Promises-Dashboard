@@ -9,6 +9,7 @@ import OverviewSection from '@/components/OverviewSection'
 import PromisesSection from '@/components/PromisesSection'
 import SourcesSection from '@/components/SourcesSection'
 import FAQSection from '@/components/FAQSection'
+import Footer from '@/components/Footer'
 import { supabase, isSupabaseConfigured } from '@/lib/supabase'
 import PartyDescriptions from '@/components/PartyDescriptions'
 
@@ -412,6 +413,7 @@ export default function Dashboard() {
             />
             <SourcesSection sources={sources} />
             <FAQSection faqs={faqs} />
+            <Footer />
           </>
         )}
       </div>
