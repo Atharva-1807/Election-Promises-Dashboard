@@ -127,24 +127,32 @@ const mockPromises: Promise[] = [
 const mockSources: Source[] = [
   {
     id: '1',
+    source_name: 'BJP Maharashtra Official Manifesto 2024',
+    source_url: 'https://example.com/bjp-manifesto',
     title: 'BJP Maharashtra Official Manifesto 2024',
     url: 'https://example.com/bjp-manifesto',
     governing_body: 'PMC',
   },
   {
     id: '2',
+    source_name: 'Congress Pune Municipal Election Promises',
+    source_url: 'https://example.com/congress-promises',
     title: 'Congress Pune Municipal Election Promises',
     url: 'https://example.com/congress-promises',
     governing_body: 'PMC',
   },
   {
     id: '3',
+    source_name: 'NCP (SP) Local Body Election Document',
+    source_url: 'https://example.com/ncp-document',
     title: 'NCP (SP) Local Body Election Document',
     url: 'https://example.com/ncp-document',
     governing_body: 'PMC',
   },
   {
     id: '4',
+    source_name: 'Shiv Sena (UBT) PMC Election Manifesto',
+    source_url: 'https://example.com/shivsena-ubt',
     title: 'Shiv Sena (UBT) PMC Election Manifesto',
     url: 'https://example.com/shivsena-ubt',
     governing_body: 'PMC',
