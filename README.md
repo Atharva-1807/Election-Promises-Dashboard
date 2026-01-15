@@ -127,3 +127,4 @@ The dashboard will be automatically deployed on every push to your main branch.
 ## Contributing
 
 This is a neutral, factual dashboard. Contributions should maintain the principle of neutrality and avoid any form of political commentary or bias.
+
